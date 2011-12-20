@@ -1,0 +1,16 @@
+@stylesheet: http://containerist.org/container/standard/standard.css
+@title: Intro
+
+--- CONTENT ---
+# CONTAINERIST
+
+Tell me where your content is located:
+
+<form action="http://containerist.org/index.py">
+  <p>origin:<br><input name="origin" type="text" size="60"></p>
+</form>
+
+
+### About
+
+Containerist is a content constructor for the web.
