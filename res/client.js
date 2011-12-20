@@ -1,7 +1,7 @@
 var head, body;
 
 function addStylesheet(href) {
-	head.append('<link href="'+href+'" rel="stylesheet">');
+	head.append('<link href="'+href+'" rel="stylesheet" type="text/css">');
 }
 
 function addContent(href) {
@@ -42,8 +42,8 @@ $.domReady(function () {
 			if (status === 200) {
 				var doc = parseDocument(result);
 				body.append(doc.html);
-				if (doc.properties.style)
-					addStylesheet(doc.properties.style);
+				if (doc.properties.stylesheet)
+					addStylesheet(doc.properties.stylesheet);
 				
 				console.log(doc);
 			}
