@@ -1,3 +1,4 @@
+@type: standard
 @stylesheet: http://containerist.org/container/standard/standard.css
 @title: Intro
 
