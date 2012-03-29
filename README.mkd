@@ -1,6 +1,6 @@
 # Containerist
 
-This is only a first draft of the Containerist concept of [Konstantin Weiß](konstantinweiss.com). You can see it in action on [blogracer.org](http://ctn.blogracer.org/). [Read more…](http://konnexus.net/2012/03/containerist).
+This is only a first draft of the Containerist concept of [Konstantin Weiss](konstantinweiss.com). You can see it in action on [blogracer.org](http://ctn.blogracer.org/). [Read more…](http://konnexus.net/2012/03/containerist).
 
 *   Idea by Konstantin Weiss
 *   JavaScript implementation by me
